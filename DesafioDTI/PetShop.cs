@@ -6,7 +6,7 @@ namespace DesafioDTI
 {
     public abstract class PetShop
     {
-        public string Data(String data) {
+        public string Data(string data) {
 
             try
             {
